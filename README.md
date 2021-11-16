@@ -1,7 +1,7 @@
 # vehicle-management-python
-Vehicle Management System using Python 3.6.6, PyQt5, MySQL and ReportLab.
+Vehicle Service Management System using Python 3.6.6, PyQt5, MySQL and ReportLab.
 
-The proposed Car Service Center management system is developed for maintaining
+The proposed Vehicle Service Center management system is developed for maintaining
 the service center activities like, car maintenance, customer bill generation, car service and
 spare parts sales, employee details, to improve accuracy and enhance the efficiency of service
 center to better serve the customer. 
